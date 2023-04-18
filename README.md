@@ -12,7 +12,7 @@ DALL.E Generated Images
 
 
 Human made images
+![6](https://user-images.githubusercontent.com/92579731/232845471-228014e3-678e-4624-b69b-ea298da8805a.png)
 
-![b](https://user-images.githubusercontent.com/92579731/232845095-861d5088-ed68-424b-a0eb-c247e6188ea0.PNG)
 
 
